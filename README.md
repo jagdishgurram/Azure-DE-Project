@@ -7,7 +7,7 @@ Designed and deployed a scalable data pipeline that ingests data from Amazon S3,
 
 📌 Key Components
 
-Azure Data Factory (ADF)
+🚀 Azure Data Factory (ADF)
 
 Pipeline creation, parameterization, and orchestration
 
@@ -15,7 +15,7 @@ Storage event-based triggers for automated ingestion
 
 Integration with Databricks notebook execution
 
-Azure Databricks
+🚀 Azure Databricks
 
 Data transformation logic using notebooks
 
@@ -23,7 +23,7 @@ Generic mount setup with secure storage keys
 
 Interactive cluster-based development
 
-Azure SQL Database
+🚀 Azure SQL Database
 
 Lookup table creation
 
@@ -31,7 +31,7 @@ Loading curated data into final tables
 
 Performing table joins for reporting
 
-Amazon S3 to Azure Integration
+🚀 Amazon S3 to Azure Integration
 
 Ingesting raw data from S3
 
